@@ -8,9 +8,6 @@ This repository mirrors the nsODBC plug-in, which was previously hosted on the [
 
 **Are you the author?** You're welcome to take it over: [open an issue](https://github.com/nsis-community/plugin-nsodbc/issues/new) and we'll transfer the repository to you.
 
-> [!NOTE]
-> **Looking for the usage guide?** See [Docs/nsODBC/nsODBC.sln](Docs/nsODBC/nsODBC.sln).
-
 ## Installation
 
 Download the installer or archive from the [Releases page](https://github.com/nsis-community/plugin-nsodbc/releases).
