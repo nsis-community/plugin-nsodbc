@@ -26,5 +26,6 @@ jobs:
           name: nsODBC
           sources: |
             Contrib/nsODBC/nsODBC.cpp
+          targets: x86-unicode,amd64-unicode
           strict: false
           release: ${{ github.event_name == 'release' }}
